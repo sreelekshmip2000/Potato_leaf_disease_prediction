@@ -1,4 +1,5 @@
-Potato Disease Classification using Deep Learning
+**Potato Disease Classification using Deep Learning**
+
 Introduction
 
 In the agriculture industry, farmers often face challenges in identifying diseases in potato plants such as early blight, late blight, or determining if the plant is healthy. This uncertainty makes it difficult for farmers to apply the appropriate fertilizers and treatments, impacting crop yield and quality. To address this issue, we have developed a deep learning model using TensorFlow to classify images of potato plants, aiding in the accurate identification of diseases. By leveraging machine learning technology, our solution aims to improve agricultural practices, optimize resource allocation, and ultimately enhance the production of healthy potato plants.
